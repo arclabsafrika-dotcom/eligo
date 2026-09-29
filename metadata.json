@@ -1,0 +1,6 @@
+{
+  "name": "ELIGO — Understand. Choose. Act.",
+  "description": "AI-powered prevention and early-support platform for individuals experiencing or concerned about addictive behaviours. Understand your patterns, choose what comes next, and act on your own terms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
